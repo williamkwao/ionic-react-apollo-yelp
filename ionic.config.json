@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-apollo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
