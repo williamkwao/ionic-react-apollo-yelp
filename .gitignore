@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+#api keys
+src/services/keys.ts
 # production
 /build
 
