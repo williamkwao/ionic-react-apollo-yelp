@@ -1,4 +1,4 @@
-import ApolloClient, { from } from "apollo-boost";
+import ApolloClient from "apollo-boost";
 import { cordovaHttpFetchImpl } from "./cordova-http-fetch";
 import { YELP_API_KEY } from "./keys";
 
