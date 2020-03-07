@@ -14,6 +14,8 @@ The app avoids CORS restrictions by using [cordova-plugin-advanced-http](https:/
 - ``` ionic cap open ios ``` This will open the project in xcode
 - Select your target simulator and hit the play button to run
 
+## Demo
+![Demo gif](demogif.gif)
 
 
 
