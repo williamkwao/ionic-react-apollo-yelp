@@ -4,13 +4,11 @@ import {
   IonPage,
   IonTitle,
   IonToolbar,
-  IonButton,
   IonCard,
   IonCardContent,
   IonSearchbar
 } from "@ionic/react";
 import React, { useState } from "react";
-import ExploreContainer from "../components/ExploreContainer";
 import "./Home.css";
 import { gql } from "apollo-boost";
 import { useQuery } from "@apollo/react-hooks";

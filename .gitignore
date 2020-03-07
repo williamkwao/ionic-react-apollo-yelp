@@ -9,7 +9,7 @@
 /coverage
 
 #api keys
-src/services/keys.ts
+.env
 # production
 /build
 
